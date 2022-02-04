@@ -13,3 +13,5 @@
 - Are audits scary and painful?
 - Want help transforming your organization from waterfall to Agile? Drop me a line about your project if you're interested in working with me.
 
+(/security-policy)[Security Policy]
+(/security.txt)[Security.txt]
