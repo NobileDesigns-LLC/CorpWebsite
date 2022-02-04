@@ -1,1 +1,29 @@
 theme: jekyll-theme-leap-day
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: NobileDesigns
+name: NobileDesigns Tech Blog
+description: 
+  Tech blog about SecDevOps, modern Application Development, Integration, Cloud, and Digital Transformation
+baseurl: "" # the subpath of your site, e.g. /blog
+github_username:  chudson121
+# jekyll-paginate configuration
+paginate: 10
+
+# Build settings
+markdown: kramdown
+#theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+include: ["_pages"]
+permalink: /posts/:title/
+excerpt_separator: <!--more-->
+author: https://www.linkedin.com/in/chris-hudson121/
