@@ -1,1 +1,1 @@
-# Credit
+# Security Researchers
