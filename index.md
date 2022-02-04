@@ -1,3 +1,10 @@
+--- 
+layout: default 
+title: NobileDesigns' Tech Blog 
+description: Sharing Application Development, SecDevOps, Integration, Cloud, and Digital Transformation 
+comments: true 
+---
+
 ## Welcome to NobileDesigns
 
 ## Who we are
