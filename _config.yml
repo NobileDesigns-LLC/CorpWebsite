@@ -3,6 +3,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# https://nobiledesigns.com/
 title: NobileDesigns
 name: NobileDesigns Tech Blog
 description: 
@@ -11,10 +12,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  chudson121
 # jekyll-paginate configuration
 paginate: 10
+timezone: America/New_York
+theme: minima
 
 # Build settings
 markdown: kramdown
-#theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
