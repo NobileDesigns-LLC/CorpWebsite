@@ -5,6 +5,8 @@
 # in the templates via {{ site.myvariable }}.
 url: "https://nobiledesigns.com" # the base hostname & protocol for your site
 title: NobileDesigns
+author: 
+  name: chudson121
 name: NobileDesigns Tech Blog
 description: 
   Tech blog about SecDevOps, modern Application Development, Integration, Cloud, and Digital Transformation
@@ -14,7 +16,14 @@ github_username:  chudson121
 paginate: 10
 timezone: America/New_York
 theme: minima
+minima:
+  date_format: "%b %-d, %Y" # "March 14, 2016" https://shopify.github.io/liquid/filters/date/
 
+# generate social links in footer
+  social_links:
+    github:  chudson121
+    linkedin: chris-hudson121
+    
 # Build settings
 markdown: kramdown
 plugins:
@@ -27,4 +36,4 @@ exclude:
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
-author: https://www.linkedin.com/in/chris-hudson121/
+
