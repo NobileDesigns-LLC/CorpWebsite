@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 # blog: active
 link: active
 tags: active
