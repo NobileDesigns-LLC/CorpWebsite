@@ -1,6 +1,7 @@
 # Security Researchers
 
 ## Contact Info
+
 Contact: mailto:info@nobiledesigns.com
 Acknowledgments: https://nobiledesigns.com/SecurityResearchers
 Preferred-Languages: en
