@@ -1,4 +1,4 @@
-Contact: mailto:security@nobiledesigns.com
+Contact: mailto:info@nobiledesigns.com
 Expires: 2029-01-01T14:00:00.000Z
 Encryption: https://nobiledesigns.com/pgp-key
 Acknowledgments: https://nobiledesigns.com/SecurityResearchers
