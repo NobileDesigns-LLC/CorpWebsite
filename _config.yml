@@ -16,7 +16,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 paginate: 10
 timezone: America/New_York
 # theme: jekyll-theme-minimal
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 sitename: NobileDesigns
 minima:
   date_format: "%b %-d, %Y" # "March 14, 2016" https://shopify.github.io/liquid/filters/date/
