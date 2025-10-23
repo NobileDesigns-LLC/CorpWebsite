@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 # blog: active
 link: active
 tags: active
@@ -8,8 +9,6 @@ contact: active
 speaking: active
 
 ---
-
-## Welcome to NobileDesigns
 
 Technology with Purpose.
 Helping small and mid-sized businesses use technology intentionally to scale smarter, move faster, and deliver with confidence.
