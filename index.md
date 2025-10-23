@@ -10,12 +10,11 @@ speaking: active
 
 ---
 
+## Who We Are
+
 Technology with Purpose.
 Helping small and mid-sized businesses use technology intentionally to scale smarter, move faster, and deliver with confidence.
 Thoughtful consulting in Generative AI, DevSecOps, Platform Engineering, and Software Delivery.
-
-## Who We Are
-
 We don’t just implement technology. We help it make sense for your business.
 
 At NobileDesigns, we help small and mid-sized enterprises harness the right technology at the right time not to chase trends, but to create lasting impact. 
