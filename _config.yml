@@ -33,8 +33,8 @@ minima:
   date_format: "%b %-d, %Y" # "March 14, 2016" https://shopify.github.io/liquid/filters/date/
   social_links:
    - title: Jekyll repository at GitHub
-      icon: linkedin
-      url: "https://www.linkedin.com/company/nobiledesigns"
+     icon: linkedin
+     url: "https://www.linkedin.com/company/nobiledesigns"
 #    - { platform: github, user_url: "https://github.com/NobileDesigns-LLC/" }
 #    - { platform: linkedin, user_url: "https://www.linkedin.com/company/nobiledesigns" }
 
