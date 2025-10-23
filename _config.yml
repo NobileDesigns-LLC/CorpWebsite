@@ -7,6 +7,7 @@ url: "https://nobiledesigns.com" # the base hostname & protocol for your site
 title: NobileDesigns
 author: 
   name: NobileDesigns
+  email: info@NobileDesigns.com
 name: NobileDesigns
 description: 
   Tech blog about SecDevOps, modern Application Development, Integration, Cloud, and Digital Transformation
@@ -18,29 +19,20 @@ timezone: America/New_York
 # theme: jekyll-theme-minimal
 remote_theme: jekyll/minima
 sitename: NobileDesigns
-minima:
-  date_format: "%b %-d, %Y" # "March 14, 2016" https://shopify.github.io/liquid/filters/date/
-# github_username: chudson121 
-# linkedin_username: chris-hudson-03351a4
 
-# generate social links in footer
-  social_links:
-    github:  chudson121
-    linkedin: chris-hudson-03351a4
-    
 # Build settings
 markdown: kramdown
+include: ["_pages"]
+permalink: /posts/:title/
+excerpt_separator: <!--more-->
 
 minima:
   skin: classic
-  date_format: "%a, %b %-d, %Y"
+  ## date_format: "%a, %b %-d, %Y"
+  date_format: "%b %-d, %Y" # "March 14, 2016" https://shopify.github.io/liquid/filters/date/
   social_links:
-    - { platform: github, user_url: "https://github.com/yshmarov/" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/yshmarov/" }
-    - { platform: mastodon, user_url: "https://ruby.social/@yarotheslav/" }
-    - { platform: twitter, user_url: "https://twitter.com/yarotheslav/" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@SupeRails/" }
-
+    - { platform: github, user_url: "https://github.com/NobileDesigns-LLC/" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/company/nobiledesigns" }
 
 plugins:
   - jekyll-feed
@@ -64,9 +56,8 @@ exclude:
   - npm-debug.log
   - gulpfile.js
   - sleek.png
-include: ["_pages"]
-permalink: /posts/:title/
-excerpt_separator: <!--more-->
+
+
 gems:
 - jekyll-last-modified-at
 
