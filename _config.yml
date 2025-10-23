@@ -6,16 +6,17 @@
 url: "https://nobiledesigns.com" # the base hostname & protocol for your site
 title: NobileDesigns
 author: 
-  name: chudson121
-name: NobileDesigns Tech Blog
+  name: NobileDesigns
+name: NobileDesigns
 description: 
   Tech blog about SecDevOps, modern Application Development, Integration, Cloud, and Digital Transformation
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  chudson121
+
 # jekyll-paginate configuration
 paginate: 10
 timezone: America/New_York
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
 sitename: NobileDesigns
 minima:
   date_format: "%b %-d, %Y" # "March 14, 2016" https://shopify.github.io/liquid/filters/date/
@@ -34,6 +35,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-last-modified-at
+  - jekyll-remote-theme
 exclude:
   - Gemfile
   - Gemfile.lock
