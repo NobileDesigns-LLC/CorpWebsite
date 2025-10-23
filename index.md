@@ -1,13 +1,13 @@
 ---
 layout: home
 title: {{site.domain}}
-blog: active
+# blog: active
 link: active
 tags: active
 contact: active
-cv: active
+# cv: active
 speaking: active
-description: Hello World.
+description: {{ site.description }}
 ---
 
 ## Welcome to NobileDesigns
