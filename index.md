@@ -63,11 +63,9 @@ Our goal isn’t to overwhelm your team it’s to empower them.
 ## Contact
 Let’s Build Something That Works.
 
-📧 info@nobiledesigns.com
-🌐 www.nobiledesigns.com
+[📧 info@nobiledesigns.com](mailto:info@nobiledesigns.com)
+[🌐 www.nobiledesigns.com](https://www.nobiledesigns.com)
 📍 Based in Tampa, Florida
 
 
-## Links
-- [Security Policy](/security-policy)
-- [Security.txt](/security.txt)
+
