@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: NobileDesigns
 # blog: active
 link: active
 tags: active
