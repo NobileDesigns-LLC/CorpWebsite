@@ -1,4 +1,7 @@
-# Security Researchers
+---
+layout: post
+title: Security Researchers
+---
 
 ## Contact Info
 
