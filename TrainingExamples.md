@@ -1,3 +1,4 @@
+{% include codeHeader.html %}
 # Training Examples for our GenAI Masterclass
 
 
@@ -64,6 +65,8 @@
 <a id="module-1-accounting"></a>
 
 #### Accounting – email subject lines
+
+         Write 3 subject lines for an email to a client explaining their monthly financial report is ready for review. Make them clear and professional.
 
 ```markdown
       Write 3 subject lines for an email to a client explaining their monthly financial report is ready for review. Make them clear and professional.
