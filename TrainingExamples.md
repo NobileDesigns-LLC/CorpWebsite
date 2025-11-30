@@ -1,4 +1,4 @@
-{% include codeHeader.html %}
+
 # Training Examples for our GenAI Masterclass
 
 
