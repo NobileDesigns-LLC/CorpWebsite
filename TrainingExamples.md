@@ -70,8 +70,8 @@ title: Training Examples
 
 #### Simple Email
 <p>
-<a href="https://chatgpt.com/?q=Write+a+professional+email+about+the+project+timeline">Simple Email</a>
-<a href="https://chatgpt.com/?q=Write+a+professional+email+to+a+client+explaining+that+their+project+timeline+has+been+extended+by+2+weeks+due+to+permit+delays.+Acknowledge+the+inconvenience,+clearly+define+the+reason,+provide+a+new+timeline,+and+offer+to+discuss+any+concerns.+Tone+should+be+professional,+apologetic,+and+solution+focused.">Level 1 Email</a>
+<a target="_blank" href="https://chatgpt.com/?q=Write+a+professional+email+about+the+project+timeline">Simple Email</a>
+<a target="_blank" href="https://chatgpt.com/?q=Write+a+professional+email+to+a+client+explaining+that+their+project+timeline+has+been+extended+by+2+weeks+due+to+permit+delays.+Acknowledge+the+inconvenience,+clearly+define+the+reason,+provide+a+new+timeline,+and+offer+to+discuss+any+concerns.+Tone+should+be+professional,+apologetic,+and+solution+focused.">Simple Email Level 1</a>
 </p>
 
 **Accounting** 
@@ -89,10 +89,12 @@ Write an email to our marketing list announcing a new Class A office development
 Write an email introducing a new Class A office development opportunity in Miami called [Project Name]. 
 ```
 
+**Property Development Level 1**
 ```markdown
 Write an email to a group of potential equity partners introducing a new Class A office development opportunity in Miami called [Project Name]. Briefly describe the site/location, project scope (total SF, target tenants, key amenities), and high-level investment thesis (demand drivers, competitive positioning, expected timeline). Invite them to review the teaser/deck at [Link] and propose a call within the next [Timeframe] to discuss the opportunity in more detail. Keep the tone professional, concise, and investor-focused.
 ```
 
+---
 
 #### Accounting – email subject lines
 
@@ -124,13 +126,20 @@ Write 3 subject lines for an email updating stakeholders on project progress. Ma
 Write 3 subject lines for an email to potential investors about a new development opportunity. Make them compelling but professional.
 ```
 
+---
+
+```markdown
+I want to become exceptionally skilled in using AI tools in my role as a [your job title, e.g., Property Manager, Marketing Director, Financial Analyst]. I can dedicate about [X minutes] per day for the next 30 days, and I want practical, on-the-job improvements rather than abstract theory.
+
+```
+
 <a id="module-3"></a>
 
 ### Module 3
 
 <a id="module-3-accounting"></a>
 
-#### Accounting – budget variance email
+#### Budget variance email
 
 ```markdown
 You need to email a client explaining a budget variance in their project costs.
@@ -138,7 +147,7 @@ You need to email a client explaining a budget variance in their project costs.
 
 <a id="module-3-marketing"></a>
 
-#### Marketing – LinkedIn post
+#### LinkedIn post
 
 ```markdown
 Write a LinkedIn post announcing a new development project.
@@ -146,7 +155,7 @@ Write a LinkedIn post announcing a new development project.
 
 <a id="module-3-construction"></a>
 
-#### Construction – delay email
+#### Project delay email
 
 ```markdown
 You need to email the project owner about a 1-week delay due to material shortages.
@@ -154,7 +163,7 @@ You need to email the project owner about a 1-week delay due to material shortag
 
 <a id="module-3-property-development"></a>
 
-#### Property development – acquisition email
+#### Acquisition email
 
 ```markdown
 You need to email potential investors about a new acquisition opportunity.
@@ -187,6 +196,16 @@ Tone: Thorough, systematic, and risk-averse.
 
 <a id="module-4-briefing"></a>
 
+#### Content Creation
+
+```markdown
+
+I'm a Marketing Manager creating listing copy for a luxury 3-bedroom waterfront condo in Harbor District. Target buyers are professionals aged 35-50 looking for a primary residence with lifestyle amenities.Act as a luxury real estate copywriter specializing in waterfront properties.Write a compelling property description that highlights: Panoramic water views from floor-to-ceiling windows, Chef's kitchen with Italian marble countertops, Primary suite with spa-like bathroom, Building amenities (concierge, fitness center, rooftop terrace), Walkability to restaurants and cultural venues.
+150-200 words with an engaging opening hook, 2-3 descriptive paragraphs, and a closing call-to-action. Use sensory language. Sophisticated, aspirational, and evocative. Appeal to lifestyle and emotion, not just features.
+
+
+```
+
 #### Briefing for senior management
 
 ```markdown
@@ -206,11 +225,11 @@ Tone: Professional, neutral, and concise.
 
 <a id="module-4-exercise-4-1"></a>
 
-#### Exercise 4.1 – generate listing/project
+#### Generate listing/project
 
 <a id="module-4-exercise-4-1-marketing"></a>
 
-##### Marketing – luxury listing
+##### Luxury listing
 
 ```markdown
 Write a luxury property listing description for a penthouse.
@@ -218,7 +237,7 @@ Write a luxury property listing description for a penthouse.
 
 <a id="module-4-exercise-4-1-property-development"></a>
 
-##### Property development – project description
+##### Project description
 
 ```markdown
 Write a project description for a mixed-use development.
@@ -226,7 +245,7 @@ Write a project description for a mixed-use development.
 
 <a id="module-4-exercise-4-1-construction"></a>
 
-##### Construction – portfolio piece
+##### Portfolio piece
 
 ```markdown
 Write a portfolio piece describing a completed custom build.
@@ -234,7 +253,7 @@ Write a portfolio piece describing a completed custom build.
 
 <a id="module-4-exercise-4-1-accounting"></a>
 
-##### Accounting – service description
+##### Service description
 
 ```markdown
 Write a description of a service for your financial consulting services.
@@ -246,7 +265,7 @@ Write a description of a service for your financial consulting services.
 
 <a id="module-4-exercise-4-2-marketing"></a>
 
-##### Marketing – luxury listing series
+##### luxury listing series
 
 ```markdown
 Create a 3-post series announcing a new luxury listing.
@@ -254,7 +273,7 @@ Create a 3-post series announcing a new luxury listing.
 
 <a id="module-4-exercise-4-2-property-development"></a>
 
-##### Property development – progress series
+##### progress series
 
 ```markdown
 Create a 3-post series showing development progress (groundbreaking, framing, completion).
@@ -262,7 +281,7 @@ Create a 3-post series showing development progress (groundbreaking, framing, co
 
 <a id="module-4-exercise-4-2-construction"></a>
 
-##### Construction – project aspects series
+##### project aspects series
 
 ```markdown
 Create a 3-post series highlighting different aspects of a project (design, construction, final reveal).
@@ -270,7 +289,7 @@ Create a 3-post series highlighting different aspects of a project (design, cons
 
 <a id="module-4-exercise-4-2-accounting"></a>
 
-##### Accounting – financial tips series
+##### financial tips series
 
 ```markdown
 Create a 3-post series with financial tips for property investors.
@@ -278,10 +297,10 @@ Create a 3-post series with financial tips for property investors.
 
 <a id="module-4-exercise-4-2-1"></a>
 
-#### Exercise 4.2.1 – client testimonial framework
+#### Accounting and Marketing
 
 ```markdown
-Create a prompt that helps you transform a client's casual feedback into a polished testimonial quote (while keeping their authentic voice and getting their approval).
+The marketing team is preparing a new campaign to attract potential tenants and investors for a recently completed project. You have been asked for "some numbers" that highlight the project's or market's financial benefits or stability, but marketing needs them to resonate with their audience, not just raw accounting figures
 ```
 
 <a id="module-5"></a>
@@ -289,6 +308,97 @@ Create a prompt that helps you transform a client's casual feedback into a polis
 ### Module 5
 
 <a id="module-5-exercise-5-1"></a>
+#### Microsoft Copilot
+
+- Windows 11 - Copilot is integrated directly into the operating system and can be accessed via the taskbar, the Start menu, or by using the Copilot key on your keyboard
+- standalone app that can be launched from the Start menu or by searching for "Copilot"
+- Microsoft Edge, where you can activate it by clicking the Copilot icon in the search bar or sidebar, and even use Copilot Mode for a more proactive browsing experience.
+- <a target="_blank" href="https://copilot.microsoft.com/">Copilot web site</a>
+- <a target="_blank" href="https://m365.cloud.microsoft/">M365 Copilot site</a>
+- Embedded in office suite
+
+
+#### Excel Demo
+
+**Cleaning and standardizing messy data**
+```markdown
+I have a column of property addresses with inconsistent formatting (capitalization, extra spaces, abbreviations). Clean and standardize this column into a consistent format suitable for reports, and show the formulas or steps you used.
+```
+
+**Building complex formulas from a plain-language goal**
+```markdown
+I want a formula that calculates the rolling 12‑month average of [Measure] for each property, based on this date column and this value column. Write the exact Excel formula and explain how it works, assuming my data is in a structured table named [TableName].
+
+```
+
+**Creating scenario and sensitivity analysis**
+```markdown
+I want to model how changes in occupancy and average rent affect NOI. Using my current data (occupancy %, avg rent, operating expenses), build a simple scenario table that shows NOI under 3–5 scenarios (e.g., Base, Downside, Upside). Include the formulas and explain how to adjust assumptions.
+```
+
+**Creating dynamic dashboards (with slicers/filters)**
+```markdown
+Based on this table of monthly results by property, design a simple dashboard layout that:
+- Lets me filter by property and month
+- Shows total Revenue, Expenses, NOI, and a small trend chart
+Describe which charts, slicers, and formulas to use, and give step-by-step instructions to build it.
+
+```
+
+**Creating quality checks / data validation rules**
+```markdown 
+In this dataset, I want automated quality checks. Propose:
+- Data validation rules (e.g., dates in range, no negative rents, occupancy between 0% and 100%)
+- Conditional formatting rules to highlight errors or unusual values
+Provide the exact steps or formulas to implement these checks.
+
+```
+
+#### Word Examples
+
+**SWOT Analysis**
+```markdown
+SWOT analysis for a property management copmany
+```
+
+**Crafting a Tenant Welcome Packet Section**
+```markdown
+Write a section for a Class A office building tenant welcome packet. Cover key building access procedures (security, after-hours), amenity usage guidelines (fitness center, conference rooms, tenant lounge), and emergency protocols (fire, hurricane preparedness). Use clear, concise language and a helpful, professional tone.
+```
+
+**Drafting Internal Audit Findings**
+```markdown
+Draft a summary of internal audit findings regarding expense categorization discrepancies across our property portfolio. Highlight the most common types of miscategorization, the potential impact on financial reporting, and recommend 3–4 actionable steps to improve consistency and accuracy. Use a formal, objective, and constructive tone.
+```
+
+**Drafting a Lease Amendment for a Minor Change**
+```markdown
+Draft a lease amendment for the lease agreement between [Landlord Name] and [Tenant Name] for Suite [Suite Number] at [Property Address]. The amendment is to update the allocated parking spaces from [Old Number] to [New Number] effective [Date]. Ensure all standard legal boilerplate for amendments is included.
+```
+**Rewrite jargon to friendly tones**
+```markdown
+Our organization is strategically leveraging cross-functional synergies to drive scalable, value-added outcomes across the end-to-end customer journey. By operationalizing best-in-class frameworks and activating data-driven insights in real time, we are empowering stakeholders to execute against key OKRs while maintaining alignment with our long-term strategic roadmap. This initiative enables us to optimize resource allocation, de-risk critical dependencies, and accelerate time-to-value through an agile, iterative delivery model. Ultimately, we are positioning the business to capture incremental market share, enhance stakeholder engagement, and unlock sustainable, ROI-positive growth at enterprise scale.
+Rewrite this paragraph in a more conversational, client-friendly tone.
+
+```
+
+#### Powerpoint Examples
+
+**Creating an Investor Pitch Deck**
+```markdown
+Create a 10-slide investor pitch deck for a new Class A office development called "Brickell Heights" in Miami. Include slides on: Executive Summary, Market Opportunity, Site & Location, Project Overview (SF, amenities, timeline), Financial Highlights (projected returns, capital stack), Development Team, Competitive Positioning, Risk Mitigation, Investment Terms, and Next Steps. Use a professional, confident tone with data-driven content.
+```
+
+**Tenant Onboarding Presentation**
+
+```markdown
+Create a 5-slide tenant onboarding presentation for new tenants at "The Grand Tower." Include slides on: Welcome & Building Overview, Amenities & Services (fitness center, conference rooms, concierge), Building Access & Security, Sustainability Features (LEED certification, recycling programs), and Contact Information. Use a welcoming, helpful tone with engaging visuals.
+```
+
+**Property Showcase Presentation for Brokers**
+```markdown
+Create a 12-slide broker presentation for "The Pinnacle Tower," a new Class A office building in Brickell. Include slides on: Building Overview, Location & Connectivity, Floor Plates & Flexibility, Amenities (rooftop terrace, fitness, café), Technology & Sustainability, Tenant Profile, Available Spaces, Lease Terms & Incentives, Market Positioning, Renderings/Photos, Broker Commission Structure, and Contact/Next Steps. Use a sleek, modern, visually engaging style.
+```
 
 #### Exercise 5.1 – Excel
 
