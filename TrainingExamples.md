@@ -68,6 +68,32 @@ title: Training Examples
 
 <a id="module-1-accounting"></a>
 
+#### Simple Email
+<p>
+<a href="https://chatgpt.com/?q=Write+a+professional+email+about+the+project+timeline">Simple Email</a>
+<a href="https://chatgpt.com/?q=Write+a+professional+email+to+a+client+explaining+that+their+project+timeline+has+been+extended+by+2+weeks+due+to+permit+delays.+Acknowledge+the+inconvenience,+clearly+define+the+reason,+provide+a+new+timeline,+and+offer+to+discuss+any+concerns.+Tone+should+be+professional,+apologetic,+and+solution+focused.">Level 1 Email</a>
+</p>
+
+**Accounting** 
+```markdown
+Write an email to a client, [Client Name], to inform them that their monthly financial report for [Month, Year] is ready for review.
+```
+
+**Marketing**
+```markdown
+Write an email to our marketing list announcing a new Class A office development in Miami called [Project Name]. 
+```
+
+**Property Development**
+```markdown
+Write an email introducing a new Class A office development opportunity in Miami called [Project Name]. 
+```
+
+```markdown
+Write an email to a group of potential equity partners introducing a new Class A office development opportunity in Miami called [Project Name]. Briefly describe the site/location, project scope (total SF, target tenants, key amenities), and high-level investment thesis (demand drivers, competitive positioning, expected timeline). Invite them to review the teaser/deck at [Link] and propose a call within the next [Timeframe] to discuss the opportunity in more detail. Keep the tone professional, concise, and investor-focused.
+```
+
+
 #### Accounting – email subject lines
 
 ```markdown
