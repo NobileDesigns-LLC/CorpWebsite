@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Security Researchers
-{% include codeheader.html %}"
 ---
 
 ## Contact Info

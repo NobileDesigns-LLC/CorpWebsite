@@ -2,7 +2,7 @@
 layout: post
 title: Training Examples
 ---
-{% include codeHeader.html %}
+{% include codeheader.html %}
 # Training Examples for our GenAI Masterclass
 
 
