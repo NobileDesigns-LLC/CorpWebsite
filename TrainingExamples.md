@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: Training Examples
+---
+{% include codeHeader.html %}
 # Training Examples for our GenAI Masterclass
 
 
@@ -66,10 +70,8 @@
 
 #### Accounting – email subject lines
 
-         Write 3 subject lines for an email to a client explaining their monthly financial report is ready for review. Make them clear and professional.
-
 ```markdown
-      Write 3 subject lines for an email to a client explaining their monthly financial report is ready for review. Make them clear and professional.
+Write 3 subject lines for an email to a client explaining their monthly financial report is ready for review. Make them clear and professional.
 ```
 
 <a id="module-1-marketing"></a>
@@ -77,7 +79,7 @@
 #### Marketing – email subject lines
 
 ```markdown
-      Write 3 subject lines for an email announcing a new property development project. Make them attention-grabbing but professional.
+Write 3 subject lines for an email announcing a new property development project. Make them attention-grabbing but professional.
 ```
 
 <a id="module-1-construction"></a>
