@@ -4,7 +4,6 @@ title: Training Examples
 ---
 
 <!-- # Training Examples for our GenAI Masterclass -->
-#
 
 ## Table of contents
 
