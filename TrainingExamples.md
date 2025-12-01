@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TrainingExamples
+title: Training
 ---
  
 <!-- # Training Examples for our GenAI Masterclass -->
