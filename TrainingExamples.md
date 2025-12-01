@@ -126,7 +126,7 @@ Write 3 subject lines for an email updating stakeholders on project progress. Ma
 Write 3 subject lines for an email to potential investors about a new development opportunity. Make them compelling but professional.
 ```
 
----
+#### Personal Development - Initial
 
 ```markdown
 I want to become exceptionally skilled in using AI tools in my role as a [your job title, e.g., Property Manager, Marketing Director, Financial Analyst]. I can dedicate about [X minutes] per day for the next 30 days, and I want practical, on-the-job improvements rather than abstract theory.
@@ -490,6 +490,20 @@ Turn your data into a visual report that a client or stakeholder can understand 
 
 <a id="module-6-summarize"></a>
 
+#### Research Assitant
+```markdown
+I am a Property Development Manager exploring opportunities in waterfront redevelopment in Miami Dade. I’m preparing a briefing for senior leadership.
+Act as a research analyst specializing in urban development and real estate.
+Based on your existing knowledge (do not invent sources), provide:
+A high-level overview of waterfront redevelopment trends in similar cities,
+Common risks and challenges (regulatory, environmental, community),
+Typical incentives or policies cities use to encourage redevelopment.
+Use 3 sections with headings, each with 3–5 bullet points. Clearly separate facts from general patterns/assumptions.
+Tone should be Professional, neutral, and concise.
+
+```
+
+
 #### Summarize it
 
 ```markdown
@@ -520,6 +534,71 @@ You are a research assistant for a Property Development Manager exploring waterf
 Finally, provide a summary of common themes across these experts' work and how a Property Development Manager can apply these insights.
 ```
 
+#### Summary
+**Bullet Point Summary**
+```markdown
+
+I have attached a report that contains multiple arguments and supporting data.
+You are a strategic analyst skilled at distilling complex information into actionable insights.
+Generate a bullet-point summary with exactly 5–7 concise points. Each point should state one main argument or finding, include supporting evidence (data, quote, or example), avoid unnecessary detail, and focus on key takeaways that drive decisions.
+Format:
+[Main point]: [Supporting evidence]  
+[Main point]: [Supporting evidence]  
+[Main point]: [Supporting evidence]  
+Ensure no point exceeds 25 words and all critical insights are captured. Verify that each bullet contains both a claim and evidence.
+Tone should be Professional, clear, and purpose-driven. Each main point should be direct, informative, and suitable for business communication, ensuring the message is clear and respectful to the recipient.
+
+```
+
+**Executive Summary**
+
+```markdown
+Attached is a quarterly report/market analysis/project proposal intended for the executive team/board/investors who need quick decision-making insights.
+You are a business analyst preparing insights for senior leadership with limited time.
+Write an executive summary under 150 words that includes: 
+Key insights explaining what happened and why it matters
+Actionable recommendations with 2–3 specific next steps
+Relevant data points including metrics, percentages, or financial figures
+Business impact addressing risk, opportunity, or strategic alignment.
+Format:
+Key Insights: [2–3 sentences]
+Recommendations:
+[Specific action]
+[Specific action]
+[Specific action]
+Data Highlights:
+[Metric with context]
+[Metric with context]
+Confirm word count is ≤150 and recommendations are specific enough to act on immediately. Verify that a reader unfamiliar with the topic can understand the business impact.
+Tone: Professional, clear, and courteous. The subject lines should convey important information directly, maintain a respectful and positive attitude, and be appropriate for business communication.
+
+```
+
+**Board of Directors**
+```markdown
+Context: You are the CTO preparing a Q4 2025 board presentation for investors and executives focused on ROI, revenue impact, OpEx, risk, and how technology drives growth and competitive advantage.
+Role: Act as an executive presentation consultant for board-level technology and financial reporting.
+Action: Create a detailed outline for a PowerPoint deck with:
+Title Slide – title, date, presenter. 
+Executive Summary – 3–4 key takeaways. 
+Technology Performance (2–3 slides) – key initiatives, uptime/reliability, user adoption. 
+Financial Performance (2–3 slides) – Tech OpEx vs budget (with variance), ROI on major investments, cost savings/efficiency gains. 
+Revenue Impact (1–2 slides) – tech-driven revenue growth, new revenue capabilities/products, relevant customer satisfaction metrics. 
+Strategic Initiatives & Roadmap (1–2 slides) – progress on priorities, key initiatives next quarter aligned to business goals. 
+Risk Management & Cybersecurity (1 slide) – security posture/incidents, compliance, risk mitigation. 
+Challenges & Mitigation (1 slide) – key obstacles, actions taken/planned. 
+Recommendations & Requests (1 slide) – budget/approvals needed, resource needs. 
+Closing / Q&A. 
+Format (for each slide):
+Clear, concise title 
+3–5 bullets or description of visuals (charts/graphs) 
+2–3 sentence speaker notes (what to emphasize) 
+Data viz suggestions where relevant (e.g., “Bar chart: Q3 vs Q4 OpEx by category”). 
+Tone: Executive-level, data-driven, confident, strategic; focus on business outcomes, ROI, financial discipline, and alignment with company goals, not technical detail.
+
+```
+
+
 <a id="module-7"></a>
 
 ### Module 7
@@ -533,6 +612,28 @@ Our agents say they’re overwhelmed and not seeing payoff from our email outrea
 ```
 
 <a id="module-7-problem-2"></a>
+
+#### Problem Solving Prompts
+**Problem Clarifier**
+```markdown
+Help me clarify this problem: [context]. Ask me 5 questions to make sure we’re solving the right problem.
+```
+
+**Option Generator**
+```markdown
+Given this situation: [context], generate 4–5 option to consider, with pros/cons and likely impact.
+```
+
+**Criteria Builder**
+```markdown
+Propose decision criteria for choosing between these options
+```
+
+**Risk Scanner**
+```markdown
+Identify potential risks, blind spots, and failure modes for Option A vs. Option B.
+```
+
 
 #### Problem 2 – engagement strategies
 
@@ -556,8 +657,7 @@ Tone: Creative but realistic given typical corporate constraints.
 #### Problem 3 – promotion strategy
 
 ```markdown
-Swire is deciding how to promote a new high-end development to international buyers (Asia + Europe) in Q1. Budget is limited, and the team is torn between: (A) more digital advertising, (B) curated in-person events, (C) partnerships with luxury brands.
-
+The company is deciding how to promote a new high-end development to international buyers (Asia + Europe) in Q1. Budget is limited, and the team is torn between: more digital advertising, curated in-person events, partnerships with luxury brands.
 - Generate 3–4 strategic options a luxury real estate brand could pursue. For each option, list: target segment, core message, key channels, pros, cons, and approximate time-to-impact.
 - Create a comparison table for these options, and suggest 3–5 decision criteria to choose between them.
 - Stress-test this option. What could go wrong, and how could we mitigate those risks?
@@ -619,12 +719,26 @@ Here are 3 example emails I’ve sent to residents. Learn my tone and structure:
 Now, using the same tone and format, write an email informing residents that the hot water will be shut off on Saturday from 9am–1pm for maintenance. Include: reason, timing, what residents should do, and an apology for the inconvenience.
 ```
 
+#### Multi-step
+```markdown
+Map out current process
+Act as an operations consultant. I’ll describe our current turn/make-ready process for a 200-unit property. 
+Turn this into a clear step-by-step process map. Here’s our current approach: [describe current steps].
+
+Identify Improvements
+Based on this process map, identify the top 5 bottlenecks or inefficiencies and propose specific improvements for each, focused on reducing vacancy days.
+
+(Create SOP & checklist) – Create SOP & checklist Now draft a standard operating procedure and a make-ready checklist for onsite staff incorporating these improvements. Format the checklist as bullet points that can be printed and used during unit turns.
+
+```
+
+
 <a id="module-8-prompt-refinement-1"></a>
 
 #### Prompt refinement assistant 1
 
 ```markdown
-You are a generative AI and [Subject Matter Expert]. First, ask me 3 short clarifying questions about my intent around [subject], but ask them ONE at a time, waiting for my answer before asking the next. After I’ve answered all 3, use all my answers, along with the original request, to perform a detailed analysis and propose a structured plan of action. Do not start the analysis until all 3 questions have been answered.
+You are an expert in [Subject Matter Expert]. First, ask me 3 short clarifying questions about my intent around [subject], but ask them ONE at a time, waiting for my answer before asking the next. After I’ve answered all 3, use all my answers, along with the original request, to perform a detailed analysis and propose a structured plan of action. Do not start the analysis until all 3 questions have been answered.
 ```
 
 <a id="module-8-prompt-refinement-2"></a>
@@ -632,7 +746,7 @@ You are a generative AI and [Subject Matter Expert]. First, ask me 3 short clari
 #### Prompt refinement assistant 2
 
 ```markdown
-You are helping me refine my prompts about [delinquency and collections].
+You are an expert in prompt engineering. Helping me refine my prompts about [delinquency and collections].
 
 For every question I ask:
 1) Before answering, propose 2 sharper, more precise rephrasings of my question.
