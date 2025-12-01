@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
 
-    alert('copycode.js loaded');
+    console.log('copycode.js loaded');
 
     const codeBlocks = document.querySelectorAll('.highlighter-rouge');
 
