@@ -237,6 +237,33 @@ Tone: Professional, neutral, and concise.
 Write a luxury property listing description for a penthouse.
 ```
 
+```markdown
+Help me turn this prompt into a CRAFT style prompt ask me questions to help fill out the missing data
+Write a luxury property listing description for a penthouse.
+```
+
+**C.R.A.F.T. Prompt: Luxury Penthouse Listing**
+```markdown
+
+Context:
+You are writing a luxury property listing for a 3-bedroom, 2-bathroom penthouse in Miami, spanning 1,700 square feet. The residence is located in an ultra-luxury high-rise within walking distance of the Riverwalk. Key interior features include double-height ceilings, floor-to-ceiling windows, and a private elevator. Building amenities include valet service, spa, pool, club lounge, gym, and private parking. The lifestyle this home offers is executive city living—dynamic, refined, and effortlessly connected.
+
+Role:
+Write as a senior luxury real estate copywriter with deep expertise in high-end urban properties. Use a direct, second-person voice ("You'll enjoy…" / "Your mornings begin…") to create immediacy and connection.
+
+Audience:
+The ideal buyer is a young executive who values sweeping views and a walkable, vibrant lifestyle. They seek sophistication without excess—a home that reflects success and taste.
+
+Format:
+
+Begin with a short, compelling introductory paragraph (3–4 sentences) that sets the scene and emotional tone.
+Follow with 5–7 concise bullet points highlighting key features (interior, views, amenities, location).
+Use US English.
+Tone:
+Sophisticated, understated, and aspirational. Emulate the Swire Properties brand voice: elegant, confident, and human—never showy or clichéd. Avoid overused phrases like "once-in-a-lifetime" or "nestled." Let the details speak for themselves.
+```
+
+
 <a id="module-4-exercise-4-1-property-development"></a>
 
 ##### Project description
@@ -754,6 +781,13 @@ For every question I ask:
 <a id="module-8-example-1"></a>
 
 #### Example 1 – rent strategy for underperforming property
+```markdown
+Map current process Act as an operations consultant. I’ll describe our current turn/make-ready process for a 200-unit property. Turn this into a clear step-by-step process map. Here’s our current approach
+Step 2 – Identify improvements “Based on this process map, identify the top 5 bottlenecks or inefficiencies and propose specific improvements for each, focused on reducing vacancy days.
+Step 3 – Create SOP & checklist “Now draft a standard operating procedure and a make-ready checklist for onsite staff incorporating these improvements. Format the checklist as bullet points that can be printed and used during unit turns.
+
+```
+
 
 ```markdown
 You are a strategic consultant for a 150-unit Class B multifamily property in a secondary market. Occupancy has dropped from 97% to 90% in 4 months, and two new competitors have opened nearby offering aggressive concessions.
