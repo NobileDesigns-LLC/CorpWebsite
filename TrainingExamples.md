@@ -4,8 +4,8 @@ title: Training Examples
 ---
 
 <!-- {% include codeheader.html code=code lang="markdown" %} -->
-# Training Examples for our GenAI Masterclass
-
+<!-- # Training Examples for our GenAI Masterclass -->
+#
 
 ## Table of contents
 
