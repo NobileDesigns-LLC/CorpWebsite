@@ -3,9 +3,7 @@ layout: post
 title: Training Examples
 ---
 
-<link rel="stylesheet" href="/assets/css/code.css">
-<script src="/assets/scripts/copyCode.js"></script>
-
+<!-- {% include codeheader.html code=code lang="markdown" %} -->
 # Training Examples for our GenAI Masterclass
 
 
