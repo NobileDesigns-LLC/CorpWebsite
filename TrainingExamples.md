@@ -2,7 +2,8 @@
 layout: post
 title: Training Examples
 ---
-{% include codeheader.html %}
+
+{% include codeheader.html code=code lang="markdown" %}
 # Training Examples for our GenAI Masterclass
 
 
