@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Training Examples
-<script src="{{ site.baseurl }}/assets/scripts/copycode.js"></script>
+title: TrainingExamples
 ---
  
 <!-- # Training Examples for our GenAI Masterclass -->
