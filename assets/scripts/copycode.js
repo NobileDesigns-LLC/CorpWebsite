@@ -1,6 +1,6 @@
-const codeBlocks = document.querySelectorAll('.highlight');
+const codeBlocks = document.querySelectorAll('.highlighter-rouge');
 
-codeBlocks.forEach((highlightBlock) => {
+codeBlocks.forEach((block) => {
   // Create the copy button
   const copyButton = document.createElement('button');
   copyButton.innerText = 'Copy';
@@ -11,16 +11,16 @@ codeBlocks.forEach((highlightBlock) => {
   copyButton.style.top = '5px';
   copyButton.style.right = '5px';
   
-  // Make the highlight block position relative
-  highlightBlock.style.position = 'relative';
+  // Make the block position relative
+  block.style.position = 'relative';
   
-  // Append button to the highlight block
-  highlightBlock.appendChild(copyButton);
+  // Append button to the highlighter-rouge block
+  block.appendChild(copyButton);
   
   // Add click event listener
   copyButton.addEventListener('click', () => {
     // Get the code content from the nested code element
-    const codeElement = highlightBlock.querySelector('code');
+    const codeElement = block.querySelector('code');
     const code = codeElement ? codeElement.innerText : '';
     
     // Copy to clipboard
