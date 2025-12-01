@@ -1,3 +1,4 @@
+alert('copycode.js loaded');
 const codeBlocks = document.querySelectorAll('.highlighter-rouge');
 
 codeBlocks.forEach((block) => {
