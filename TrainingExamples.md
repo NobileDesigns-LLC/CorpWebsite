@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Training Examples
+<script src="{{ site.baseurl }}/assets/scripts/copycode.js"></script>
 ---
-
+ 
 <!-- # Training Examples for our GenAI Masterclass -->
 
 ## Table of contents
@@ -90,7 +91,8 @@ Write an email introducing a new Class A office development opportunity in Miami
 
 **Property Development Level 1**
 ```markdown
-Write an email to a group of potential equity partners introducing a new Class A office development opportunity in Miami called [Project Name]. Briefly describe the site/location, project scope (total SF, target tenants, key amenities), and high-level investment thesis (demand drivers, competitive positioning, expected timeline). Invite them to review the teaser/deck at [Link] and propose a call within the next [Timeframe] to discuss the opportunity in more detail. Keep the tone professional, concise, and investor-focused.
+Write an email to a group of potential equity partners introducing a new Class A office development opportunity in Miami called [Project Name]. 
+Briefly describe the site/location, project scope (total SF, target tenants, key amenities), and high-level investment thesis (demand drivers, competitive positioning, expected timeline). Invite them to review the teaser/deck at [Link] and propose a call within the next [Timeframe] to discuss the opportunity in more detail. Keep the tone professional, concise, and investor-focused.
 ```
 
 ---
