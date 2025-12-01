@@ -10,7 +10,7 @@ author:
   email: info@NobileDesigns.com
 name: NobileDesigns
 description: 
-  Tech blog about SecDevOps, modern Application Development, Integration, Cloud, and Digital Transformation
+  Tech blog about GenAI, AI App Dev, SecDevOps, modern Application Development, Integration, Cloud, and Digital Transformation
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # jekyll-paginate configuration
@@ -41,6 +41,10 @@ minima:
      url: "https://www.linkedin.com/company/nobiledesigns"
 #    - { platform: github, user_url: "https://github.com/NobileDesigns-LLC/" }
 #    - { platform: linkedin, user_url: "https://www.linkedin.com/company/nobiledesigns" }
+  header_pages:
+    - Home.html
+    - SecurityPolicy.md
+    - TraningExamples.md
 
 plugins:
   - jekyll-sitemap
