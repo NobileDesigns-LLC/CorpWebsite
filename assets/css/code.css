@@ -38,3 +38,18 @@ pre.highlight::before {
     letter-spacing: 1px;
     color: #3bc47f;
 }
+
+.copy-code-button {
+  padding: 4px 8px;
+  font-size: 12px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  border-radius: 3px;
+}
+
+.copy-code-button.copied {
+  background: #4CAF50;
+  color: white;
+  border-color: #4CAF50;
+}
