@@ -43,8 +43,9 @@ minima:
 #    - { platform: linkedin, user_url: "https://www.linkedin.com/company/nobiledesigns" }
   header_pages:
     - Home.html
-    - SecurityPolicy.md
     - TraningExamples.md
+    - SecurityPolicy.md
+    - SecurityResearchers.md
 
 plugins:
   - jekyll-sitemap

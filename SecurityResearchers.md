@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Security Researchers
+title: SecurityResearchers
 ---
 
 ## Contact Info
