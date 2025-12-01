@@ -26,6 +26,10 @@ include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
 
+include:
+  - assets/css/code.css
+  - assets/scripts/copy_code.js
+
 minima:
   skin: classic
 
