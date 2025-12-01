@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Training
+title: AI MasterClass Training
 ---
  
 <!-- # Training Examples for our GenAI Masterclass -->
@@ -69,8 +69,10 @@ title: Training
 
 #### Simple Email
 <p>
-<a target="_blank" href="https://chatgpt.com/?q=Write+a+professional+email+about+the+project+timeline">Simple Email</a>
-<a target="_blank" href="https://chatgpt.com/?q=Write+a+professional+email+to+a+client+explaining+that+their+project+timeline+has+been+extended+by+2+weeks+due+to+permit+delays.+Acknowledge+the+inconvenience,+clearly+define+the+reason,+provide+a+new+timeline,+and+offer+to+discuss+any+concerns.+Tone+should+be+professional,+apologetic,+and+solution+focused.">Simple Email Level 1</a>
+<!-- <a target="_blank" href="https://chatgpt.com/?q=Write+a+professional+email+about+the+project+timeline">Simple Email</a> -->
+<a target="_blank" href="https://chatgpt.com/share/692df6a3-a7c8-800b-82b2-1a383c6ebd2d">Simple Email</a>
+<a target="_blank" href="https://copilot.microsoft.com/conversations/join/7QLvbBFyK9yuedQMZsyeH">Simple Email Level 1</a>
+<!-- <a target="_blank" href="https://chatgpt.com/?q=Write+a+professional+email+to+a+client+explaining+that+their+project+timeline+has+been+extended+by+2+weeks+due+to+permit+delays.+Acknowledge+the+inconvenience,+clearly+define+the+reason,+provide+a+new+timeline,+and+offer+to+discuss+any+concerns.+Tone+should+be+professional,+apologetic,+and+solution+focused.">Simple Email Level 1</a> -->
 </p>
 
 **Accounting** 
@@ -261,7 +263,7 @@ Write a description of a service for your financial consulting services.
 
 <a id="module-4-exercise-4-2"></a>
 
-#### Exercise 4.2 – social media content series
+#### Exercise – social media content series
 
 <a id="module-4-exercise-4-2-marketing"></a>
 
@@ -297,7 +299,7 @@ Create a 3-post series with financial tips for property investors.
 
 <a id="module-4-exercise-4-2-1"></a>
 
-#### Accounting and Marketing
+#### Excercise - Accounting and Marketing
 
 ```markdown
 The marketing team is preparing a new campaign to attract potential tenants and investors for a recently completed project. You have been asked for "some numbers" that highlight the project's or market's financial benefits or stability, but marketing needs them to resonate with their audience, not just raw accounting figures
@@ -469,13 +471,8 @@ Return a summary of the presentation’s central thesis in one sentence. Outline
 #### Market analysis from dataset
 
 ```markdown
-You have the file Example-MarketReport-miami_americas_marketbeat_retail_q22025.pdf. Craft a CRAFT prompt for your analysis.
+You have the file Example-MarketReport-miami_americas_marketbeat_retail_q22025.pdf. Craft a CRAFT prompt for your analysis. Review the results and add your professional insights. Identify any questionable conclusions.
 ```
-
-```markdown
-Using your CRAFT prompt, analyze the dataset in Example-MarketReport-miami_americas_marketbeat_retail_q22025.pdf. Review the results and add your professional insights. Identify any questionable conclusions.
-```
-
 <a id="module-5-visual-reports"></a>
 
 #### Visual reports for client presentations
